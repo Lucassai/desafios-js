@@ -15,24 +15,25 @@ Lista de desafios separados por **níveis (iniciante, intermediário e avançado
 
 - Crie uma função que receba uma string e retorne `true` se for um palíndromo (ex: `"arara"`) e `false` caso contrário.
 
-3. **Maior número de um array**
+✔ 3. **Maior número de um array**
 
-   - Implemente uma função que recebe um array de números e retorna o **maior valor** encontrado.
+- Implemente uma função que recebe um array de números e retorna o **maior valor** encontrado.
 
-4. **Contador de vogais**
+✔ 4. **Contador de vogais**
 
-   - Escreva uma função que conte quantas vogais existem em uma string.
+- Escreva uma função que conte quantas vogais existem em uma string.
 
-5. **Soma de números pares**
-   - Dado um array de inteiros, some apenas os números pares.
+✔ 5. **Soma de números pares**
+
+- Dado um array de inteiros, some apenas os números pares.
 
 ---
 
 ## 🟡 Nível Intermediário
 
-6. **Anagrama**
+✔ 6. **Anagrama**
 
-   - Crie uma função que receba duas strings e verifique se uma é anagrama da outra.
+- Crie uma função que receba duas strings e verifique se uma é anagrama da outra.
 
 7. **Remove duplicados**
 
